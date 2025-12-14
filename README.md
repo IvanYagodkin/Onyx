@@ -41,7 +41,7 @@
 
 ```bash
 pkg update && pkg install python git
-git clone https://github.com/твой-ник/Onyx.git  # или скачай вручную
+git clone https://github.com/IvanYagodkin/Onyx.git  # или скачай вручную
 cd Onyx
 pip install pycryptodome
 
